@@ -1,10 +1,16 @@
-- 👋 Hi, I’m <FONT COLOR = "RED">@LucasPetros</FONT>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!---
-LucasPetros/LucasPetros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> 
+  Ola! sou Universitario na area de <strong>Desenvolvimento de Software</strong>.<br>
+  Atualmente estou na Faculdade cursando Bacharelado em Engenharia de Software e um Tecnologo em Análise e Desenvolvimento de Sistemas.<br>
+  Nas horas vagas faço cursos e estudo em casa <strong>Front-End</strong>.<br>
+  Ainda não trabalho na aréa de programação mais espero em breve ingressar.
+</p>
+
+<p align="left">
+  🦄 Linguagens: <strong>C - HTML - CSS - JAVASCRIPT.</strong>
+</p>
+<p align="left">
+  💼 Ferramentas: <strong>GIT - VISUAL STUDIO - VISUAL CODE.</strong>
+</p>
+  
