@@ -4,7 +4,7 @@
   Ola! sou Universitario na area de <strong>Desenvolvimento de Software</strong>.<br>
   Atualmente estou na Faculdade cursando Bacharelado em Engenharia de Software e um Tecnologo em Análise e Desenvolvimento de Sistemas.<br>
   Nas horas vagas faço cursos e estudo <strong>Front-End</strong>.<br>
-  Ainda não trabalho na aréa de programação mais espero em breve ingressar na aréa.
+  Atualmente trabalho na Foursys como Desenvolvedor de Software.
 </p>
 
 <p align="left">
