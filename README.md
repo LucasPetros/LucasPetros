@@ -11,6 +11,6 @@
   🦄 Linguagens: <strong>C - HTML - CSS - JAVASCRIPT.</strong>
 </p>
 <p align="left">
-  💼 Ferramentas: <strong>GIT - VISUAL STUDIO - VISUAL CODE.</strong>
+  💼 Ferramentas: <strong>GIT - VSCODE.</strong>
 </p>
   
