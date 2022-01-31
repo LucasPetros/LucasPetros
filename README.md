@@ -3,8 +3,8 @@
 <p align="left"> 
   Ola! sou Universitario na area de <strong>Desenvolvimento de Software</strong>.<br>
   Atualmente estou na Faculdade cursando Bacharelado em Engenharia de Software e um Tecnologo em Análise e Desenvolvimento de Sistemas.<br>
-  Nas horas vagas faço cursos e estudo <strong>Front-End</strong>.<br>
-  Atualmente trabalho na Foursys como Desenvolvedor de Software.
+  Nas horas vagas faço cursos e estudo <strong>Desenvolvimento Mobile</strong>.<br>
+  Atualmente trabalho na Foursys como Desenvolvedor Android.
 </p>
 
 <p align="left">
