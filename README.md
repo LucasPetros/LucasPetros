@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C - HTML - CSS - JAVASCRIPT.</strong>
+  🦄 Linguagens: <strong>C - HTML - CSS - JAVASCRIPT / JAVA - XML (Android).</strong>
 </p>
 <p align="left">
   💼 Ferramentas: <strong>GIT - VSCODE.</strong>
