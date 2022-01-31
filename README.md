@@ -11,6 +11,6 @@
   🦄 Linguagens: <strong>C - HTML - CSS - JAVASCRIPT / JAVA - XML (Android).</strong>
 </p>
 <p align="left">
-  💼 Ferramentas: <strong>GIT - VSCODE.</strong>
+  💼 Ferramentas: <strong>GIT - VSCODE - INTELLIJ - ANDROID STUDIO.</strong>
 </p>
   
