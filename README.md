@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C - HTML - CSS - JAVASCRIPT / JAVA - XML (Android).</strong>
+  🦄 Linguagens: <strong>JAVA/KOTLIN - XML (Android) / FLUTTER - DART.</strong>
 </p>
 <p align="left">
   💼 Ferramentas: <strong>GIT - VSCODE - INTELLIJ - ANDROID STUDIO.</strong>
