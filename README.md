@@ -4,7 +4,7 @@
   Ola! sou Universitario na area de <strong>Desenvolvimento de Software</strong>.<br>
   Atualmente estou na Faculdade cursando Bacharelado em Engenharia de Software e um Tecnologo em Análise e Desenvolvimento de Sistemas.<br>
   Nas horas vagas faço cursos e estudo <strong>Desenvolvimento Mobile</strong>.<br>
-  Atualmente trabalho na InPeace APP como Desenvolvedor Android.
+  Atualmente trabalho na Magalu como Desenvolvedor Android Pleno.
 </p>
 
 <p align="left">
